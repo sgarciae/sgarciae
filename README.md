@@ -29,3 +29,7 @@ Software Engineer from Valencia, Spain
 
 ## 🔎Visitors Count
 ![VisitorCount](https://profile-counter.glitch.me/{sgarciae}/count.svg)
+
+
+
+![Goku](https://github.com/sgarciae/sgarciae/blob/main/goku.jpeg?raw=true)
